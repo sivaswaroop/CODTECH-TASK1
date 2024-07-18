@@ -18,7 +18,7 @@
 ![c6](https://github.com/user-attachments/assets/77c26c6c-84f4-4c05-a7cd-c932a308b47f)
 
 
-### objective
+### Objective
 The objective of this project is to preform EXPLORATORY DATA ANALYSIS (EDA) on a IRIS dataset containing Sepal,Petal of their length and width.The aim is to uncover insights into correlations,and outliers through visualizations.
 
 ### Key Activities
@@ -26,7 +26,7 @@ The objective of this project is to preform EXPLORATORY DATA ANALYSIS (EDA) on a
 - **Correlations Analysis**:Identifying correlations between populations figures across different length and width
 
 ### Technologies Used
-- **Python**:The primary programming language for data analysis
+- **Python**:The primary programming language for data analysis.
 - **Pandas**:Used for Data manipulation and analysis.
 - **matplotlib**:Employed for creatinng static,animated and interactive visualizations.
 - **seaborn**:Utilized for making statistical graphics that are informative and attractive.
